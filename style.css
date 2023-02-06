@@ -1,0 +1,47 @@
+#red {
+    width: 100px;
+    height: 100px;
+    /* weight: 100px; */
+    background-color: red;
+    cursor: pointer;
+}
+
+#green {
+    width: 100px;
+    height: 100px;
+    /* weight: 100px; */
+    background-color: green;
+    cursor: pointer;
+}
+
+#yellow {
+    width: 100px;
+    height: 100px;
+    /* weight: 100px; */
+    background-color: yellow;
+    cursor: pointer;
+}
+
+#green:hover {
+    background-color: rgb(61, 156, 83);
+}
+
+#red:hover {
+    background-color: rgb(148, 47, 47);
+}
+
+#yellow:hover {
+    background-color: rgb(212, 212, 57);
+}
+
+#new {
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 130px;
+    cursor: pointer;
+}
+
+#new:hover {
+    background-color: aliceblue;
+}
